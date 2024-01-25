@@ -1,0 +1,149 @@
+body {
+    background-color: rgb(255, 224, 255);
+}
+section {
+    height: 200px;
+    width: 200px;
+    border: 2px solid purple;
+    display: inline-block;
+    background-size: 200px 200px;
+    background-color: rgb(216, 159, 216);
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: purple;
+    z-index: 1;
+}
+mark {
+    background-color: rgb(191, 109, 191);
+    color: purple;
+}
+.cat {
+    height: 100px;
+    width: 1300px;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    top: 11px;
+}
+.cat2 {
+    height: 50px;
+    width:1300px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    position: relative;
+    left: 200px;
+    top: -3px;
+}
+.logo {
+    height: 168px;
+    width: 200px;
+    position: relative;
+    background-image: url("happy-cat-transparent-background-png.png");
+    background-color: purple;
+    left: -7px;
+    bottom: 161px;
+}
+.cat3 {
+    height: 50px;
+    width: 1200px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    position: relative;
+    top: -113px;
+    left: 50px;
+    text-align: center;
+}
+.cat4 {
+    height: 170px;
+    width: 300px;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    position: relative;
+    top: -110px;
+    left: 35px;
+    text-align: center;
+}
+.cat5 {
+    height: 35px;
+    width: 300px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    position: relative;
+    top: -55px;
+    left: -272px;
+    text-align: center;
+}
+.cat6 {
+    height: 170px;
+    width: 300px;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    position: relative;
+    bottom: -128px;
+    left: -580px;
+    text-align: center;
+}
+.cat7 {
+    height: 170px;
+    width: 300px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    position: relative;
+    left: -380px;
+    top: -30px;
+    background-image: url(unnamed.jpg)
+    }
+    .cat8 {
+    height: 35px;
+    width: 300px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    position: relative;
+    left: 542px;
+    top: -290px;
+    }
+    .cat9 {
+        height: 300px;
+        width: 300px;
+        font-size: 17px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: start;
+        position: relative;
+        left: 695px;
+        top: -260px;
+    }
+    .cat10 {
+        height: 160px;
+        width: 180px;
+        position: relative;
+        left: 690px;
+        top: -238px;
+        font-size: 13px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .cat11 {
+        height: 140px;
+        width: 180px;
+        position: relative;
+        top: -392px;
+        left: 503px;
+        background-color: purple;
+        background-image: url(pngtree-birman-cat-in-studio-pet-png-image_10266218.png)
+    }
+    a {
+        text-decoration: none;
+        color: purple;
+        margin-right: 104px;
+    }

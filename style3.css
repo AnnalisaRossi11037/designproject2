@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(126, 235, 126);
+}
+section {
+    height: 200px;
+    width: 200px;
+    border: 2px solid green;
+    display: inline-block;
+    background-size: 200px 200px;
+    background-color: rgb(52, 213, 52);
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: green;
+    z-index: 1;
+}
+.cat {
+    height: 100px;
+    width: 1300px;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    top: -84px;
+}
+.cat2 {
+    height: 50px;
+    width:1300px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    position: relative;
+    left: 200px;
+    top: -3px;
+}
+.textbox {
+    height: 400px;
+    width: 610px;
+    position: relative;
+    right: -450px;
+    bottom: 25px;
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo {
+    height: 168px;
+    width: 200px;
+    position: relative;
+    background-image: url("happy-cat-transparent-background-png.png");
+    background-color: green;
+    bottom: 57px;
+    left: -1314px;
+}
+.picture {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    background-image: url(pngimg.com\ -\ cat_PNG50512\ \(1\).png);
+    left: -500px;
+    bottom: 100px;
+}
+.picture2 {
+    height: 240px;
+    width: 200px;
+    position: relative;
+    background-image: url(580b57fbd9996e24bc43bb9b.png);
+    left: 360px;
+}
+a {
+    text-decoration: none;
+    color: green;
+    margin-right: 104px;
+}

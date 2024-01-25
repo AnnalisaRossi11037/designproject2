@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(255, 230, 183);
+}
+section {
+    height: 200px;
+    width: 200px;
+    border: 2px solid orange;
+    display: inline-block;
+    background-size: 200px 200px;
+    background-color: rgb(255, 209, 123);
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: orange;
+    z-index: 1;
+}
+.cat {
+    height: 100px;
+    width: 1300px;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    top: -84px;
+}
+.cat2 {
+    height: 50px;
+    width:1300px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    position: relative;
+    left: 200px;
+    top: -3px;
+}
+.logo {
+    height: 168px;
+    width: 200px;
+    position: relative;
+    background-image: url("happy-cat-transparent-background-png.png");
+    background-color: orange;
+    bottom: 57px;
+    left: -1314px;
+}
+a {
+    text-decoration: none;
+    color: orange;
+    margin-right: 104px;
+}
+.text {
+    height: 400px;
+    width: 250px;
+    position: relative;
+    left: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+.text2 {
+    height: 400px;
+    width: 250px;
+    position: relative;
+    left: 90px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+.text3 {
+    height: 400px;
+    width: 250px;
+    position: relative;
+    left: 120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+.text4 {
+    height: 400px;
+    width: 250px;
+    position: relative;
+    left: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+.text5 {
+    height: 400px;
+    width: 250px;
+    position: relative;
+    left: 180px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
